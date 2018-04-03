@@ -9,7 +9,7 @@ df_unformatted_load = pd.read_csv(file_name)
 # each function represents the complete set inside table pipes
 
 def logo_md(im_source, site_link):
-    im_md = '[<img src="' + im_source + '" width="50">]' 
+    im_md = '[<img src="' + im_source + '" width="80">]' 
     site_md = '(' + site_link + ')'
     return(im_md+site_md)
 
