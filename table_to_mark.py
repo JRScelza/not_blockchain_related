@@ -29,7 +29,7 @@ def demo_md(demo_url):
     return(phone_emoji + demo_link)
 
 def tech_spec_md(spec_url):
-    paper_emoji = ':page_facing_up:'
+    paper_emoji = '[:page_facing_up:]'
     spec_link = '(' + spec_url + ')'
     return(paper_emoji + spec_link)
 
