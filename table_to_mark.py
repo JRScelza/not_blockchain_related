@@ -1,7 +1,7 @@
 from tabulate import tabulate
 import pandas as pd
 
-file_name = './final_table.csv'
+file_name = './Master_List.csv'
 
 df_unformatted_load = pd.read_csv(file_name)
 
