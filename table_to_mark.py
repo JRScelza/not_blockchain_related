@@ -58,8 +58,8 @@ for i in range(len(df_unformatted_load)):
     tech_stack.append(tech_spec_md(spec_url))
 
 
-df_md = pd.DataFrame(columns = ['Site' , 'Name', 'Category' , 'Location' , 'Code', 'Demo', 'TS' ])
-df_md['Site'] = site_stack
+df_md = pd.DataFrame(columns = ['Name', 'Category' , 'Location' , 'Code', 'Demo', 'TS' ], index=site_stack)
+df_md.index.name = 'Site'
 df_md['Name'] = name_stack
 df_md['Category'] = list(df_unformatted_load['Category'])
 df_md['Location'] = list(df_unformatted_load['Location'])
@@ -70,7 +70,7 @@ df_md['TS'] = tech_stack
 
 headers = list(df_md.columns)
 
-f = open('./markdown.txt', 'w')
+f = open('./READ.md', 'w')
 f.write(tabulate(df_md,headers, tablefmt="pipe"))
 f.close()
 
