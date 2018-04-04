@@ -1034,3 +1034,383 @@ The LUVEN screening test method detects cancer at its early stages with the accu
 | ICO Symbol        | LVN                                                                                                 |
 | Coin              | ERC20                                                                                               |
 | White Paper       | [:page_facing_up:](https://luvenmed.io/whitepaper/whitepaper_en.pdf)                                |____
+## Lympo
+ 
+ 
+[<img src="https://www.trackico.io/media/68CcMp3Q_400x400.jpg" width="200">](https://lympo.io)
+ 
+ 
+Powered by user-generated and user-controlled fitness and wellness data, Lympo will allow the exchange of value through the introduction LYM utility tokens. 
+ 
+ 
+|                   | Details                                                                                                                                          |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                                        |
+| Location          | -                                                                                                                                                |
+| Money Raised (M)  | 12.8                                                                                                                                             |
+| Method of Funding | ICO                                                                                                                                              |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/LympoICO/ico-smartcontracts) |
+| ICO Symbol        | LYM                                                                                                                                              |
+| Coin              | ERC20                                                                                                                                            |
+| White Paper       | [:page_facing_up:](https://lympo.io/wp-content/uploads/2017/12/whitepaper.pdf?v4)                                                                |____
+## MDCN
+ 
+ 
+[<img src="https://icobench.com/images/icos/icons/mdcn.jpg" width="200">](https://cryptoheart.org)
+ 
+ 
+MDCN’s aim is to have medical services worldwide to provide to the public at a touch of the button. MDCN tokens are provided as a utility to purchase medical care, products, prescriptions and to reward doctors. Using smart contracts, MDCN can store patient data anonymously and securely on the BlockChain and make it accessible to patients.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | UK                                                                                                  |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | MDCN                                                                                                |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://cryptoheart.org/docs/mdcn2.pdf)                                          |____
+## MedCredits
+ 
+ 
+[<img src="https://pbs.twimg.com/profile_images/899631295520747520/Ig5AUCO0.jpg" width="200">](https://medcredits.io/)
+ 
+ 
+a blockchain-powered platform connecting patients and doctors worldwide on a decentralized healthcare network
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          |                                                                                                     |
+| Money Raised (M)  | 12.3                                                                                                |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | MEDX                                                                                                |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://medcredits.io/docs/MedCredits%20White%20Paper%20Final.pdf)               |____
+## MediBloc
+ 
+ 
+[<img src="https://i1.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2017/11/medibloc.jpg?resize=696%2C449&ssl=1" width="200">](https://medibloc.org/en/)
+ 
+ 
+a decentralized healthcare information ecosystem for patients, healthcare providers and data researchers, built on blockchain technology.
+ 
+ 
+|                   | Details                                                                                                                       |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                   |
+| Location          | Seoul, South Korea                                                                                                            |
+| Money Raised (M)  | 21.1                                                                                                                          |
+| Method of Funding | ICO                                                                                                                           |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Medibloc) |
+| ICO Symbol        | QTUM                                                                                                                          |
+| Coin              | MED                                                                                                                           |
+| White Paper       | [:page_facing_up:](https://medibloc-homepage.oss-us-west-1.aliyuncs.com/whitepaper/medibloc_whitepaper_en.pdf)                |____
+## MediBond
+ 
+ 
+[<img src="https://qolczpnfu7-flywheel.netdna-ssl.com/wp-content/uploads/2017/08/MediBond_ico_329x207.png" width="200">](http://medibond.io/)
+ 
+ 
+tokenized cryptographic platform to help bring innovation to the pharmaceutical, insurance, and healthcare sectors.
+ 
+ 
+|                   | Details                                                                                                                           |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                                                       |
+| Location          | Australia                                                                                                                         |
+| Money Raised (M)  | 0.045                                                                                                                             |
+| Method of Funding | ICO                                                                                                                               |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medibondproj) |
+| ICO Symbol        | MEDI                                                                                                                              |
+| Coin              | ERC20                                                                                                                             |
+| White Paper       | [:page_facing_up:](http://medibond.io/doc/medibond_whitepaper.pdf)                                                                |____
+## Medicalchain
+ 
+ 
+[<img src="https://medicalchain.com/wp-content/uploads/2017/09/medicalchain_logo_dark_cropped_og.png" width="200">](https://medicalchain.com/en/)
+ 
+ 
+blockchain technology for secure storage and transfer of electronic health records
+ 
+ 
+|                   | Details                                                                                                                           |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                       |
+| Location          | UK                                                                                                                                |
+| Money Raised (M)  | 24                                                                                                                                |
+| Method of Funding | ICO                                                                                                                               |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medicalchain) |
+| ICO Symbol        | MTN                                                                                                                               |
+| Coin              | ERC20                                                                                                                             |
+| White Paper       | [:page_facing_up:](https://medicalchain.com/Medicalchain-Whitepaper-EN.pdf)                                                       |____
+## MediChain
+ 
+ 
+[<img src="https://cdn-images-1.medium.com/max/960/1*iX2zZ3KDi79Ll3qMZxvPEw.jpeg" width="200">](https://medichain.online/)
+ 
+ 
+MediChain gives patients ownership of their own medical data. MediChain is a distributed ledger for patient’s medical data. It allows patients to store their own data in a secure way and gives access to specialists anywhere regardless of the payer network or EMR (Electronic Medical Record) used.
+ 
+ 
+|                   | Details                                                                                                                        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                      |
+| Location          | London, UK                                                                                                                     |
+| Money Raised (M)  | 13.1                                                                                                                           |
+| Method of Funding | -                                                                                                                              |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/medichain) |
+| ICO Symbol        | MCU                                                                                                                            |
+| Coin              | ERC20                                                                                                                          |
+| White Paper       | [:page_facing_up:](https://docs.google.com/document/d/1CcC0TunMv_utiQwXlD9gysj1yc2QAj5jQ8jRAuCla9k/edit)                       |____
+## MediLedger
+ 
+ 
+[<img src="https://i1.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2018/02/MediLedger.jpg?resize=696%2C449&ssl=1" width="200">](https://www.mediledger.com)
+ 
+ 
+The MediLedger Project was started in 2017 by Chronicled to bring together leading Pharmaceutical Manufacturers and Distributors to explore blockchain technology to meet track and trace regulations, and to provide a step function improvement in the overall operation of the supply chain.
+ 
+ 
+|                   | Details                                                                                                                                                   |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Supply Chain                                                                                                                                              |
+| Location          | San Francisco, CA                                                                                                                                         |
+| Money Raised (M)  | -                                                                                                                                                         |
+| Method of Funding | ICO                                                                                                                                                       |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/chronicled/mediledger)                |
+| ICO Symbol        | -                                                                                                                                                         |
+| Coin              | -                                                                                                                                                         |
+| White Paper       | [:page_facing_up:](https://uploads-ssl.webflow.com/59f37d05831e85000160b9b4/5aa358c647bb6800017a018b_MediLedger%20Project%202017%20Progress%20Report.pdf) |____
+## minthealth
+ 
+ 
+[<img src="https://www.minthealth.io/wp-content/uploads/2018/03/minthealth-logo-color.png" width="200">](https://www.minthealth.io/)
+ 
+ 
+A global decentralized health platform that empowers patients with a self-sovereign health identity and aligns patients, providers, and payers to battle the global pandemic of chronic disease
+ 
+ 
+|                   | Details                                                                                                                                   |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                                 |
+| Location          | San Diego, California, USA                                                                                                                |
+| Money Raised (M)  | -                                                                                                                                         |
+| Method of Funding | ICO                                                                                                                                       |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/MintHealth/Vidamints) |
+| ICO Symbol        | VIDA                                                                                                                                      |
+| Coin              | -                                                                                                                                         |
+| White Paper       | [:page_facing_up:](-)                                                                                                                     |____
+## mitio
+ 
+ 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUq1K8yZCRxmbqcrY0dU91KNw7nyAqnm_MLgaQThEQnKLE-v9ZTg" width="200">](http://www.mitio.org/)
+ 
+ 
+a platform for decentralized medical interpreter training
+ 
+ 
+|                   | Details                                                                                                                                        |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                                       |
+| Location          | McDonough, Georgia, USA                                                                                                                        |
+| Money Raised (M)  | 0.16                                                                                                                                           |
+| Method of Funding | ICO                                                                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/whitesky77658/Mitio_Token) |
+| ICO Symbol        | MITIO                                                                                                                                          |
+| Coin              | ERC20                                                                                                                                          |
+| White Paper       | [:page_facing_up:]( )                                                                                                                          |____
+## modum
+ 
+ 
+[<img src="http://bitcoinprbuzz.com/wp-content/uploads/2017/09/Modium-PR-image-1080x600.png" width="200">](https://modum.io/)
+ 
+ 
+combines IoT sensors with blockchain technology to provide data integrity for transactions of physical products, streamlining supply chain processes in many sectors; targeted to comply with EU regs on medicinal products
+ 
+ 
+|                   | Details                                                                                                                       |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                                                   |
+| Location          | Zürich, Switzerland                                                                                                           |
+| Money Raised (M)  | 13.4                                                                                                                          |
+| Method of Funding | ICO                                                                                                                           |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/modum-io) |
+| ICO Symbol        | MOD                                                                                                                           |
+| Coin              | ERC20                                                                                                                         |
+| White Paper       | [:page_facing_up:](https://modum.io/wp-content/uploads/2017/08/modum-whitepaper-v.-1.0.pdf)                                   |____
+## Nebula_Genomics
+ 
+ 
+[<img src="https://i1.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2018/02/MediLedger.jpg?resize=696%2C449&ssl=1" width="200">](https://www.nebulagenomics.io)
+ 
+ 
+Spur genomic data growth by significantly reducing the costs of personal genome sequencing, enhancing genomic data protection, enabling buyers to efficiently acquire genomic data, and addressing the challenges of genomic big data. We will accomplish this through   decentralization,   cryptography,   and   utilization   of   the   blockchain.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Research                                                                                            |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | 1.6                                                                                                 |
+| Method of Funding | SEED,ICO                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://www.nebulagenomics.io/assets/documents/NEBULA_whitepaper_v4.52.pdf)      |____
+## Open_Longevity
+ 
+ 
+[<img src="https://steemitimages.com/DQmY9AihRiQSryQFXAJYysdXsX4hzt7oS9cR8XvfeEATi6C/image.png" width="200">](http://en.openlongevity.io/)
+ 
+ 
+a project that initiates, organizes and guarantees the openness of clinical trials of aging therapies
+ 
+ 
+|                   | Details                                                                                                  |
+|:------------------|:---------------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                              |
+| Location          | Russia                                                                                                   |
+| Money Raised (M)  | -                                                                                                        |
+| Method of Funding | ICO                                                                                                      |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-)      |
+| ICO Symbol        | YEAR                                                                                                     |
+| Coin              | ERC20                                                                                                    |
+| White Paper       | [:page_facing_up:](https://docs.google.com/document/d/1wUz5D1cvSDkSeXF6RZipK_zNHE9odn4uEP7qgM0jtZk/edit) |____
+## Panacea.md
+ 
+ 
+[<img src="-" width="200">](http://panacea.md)
+ 
+ 
+Managed mHealth custom studies 
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Washington D.C.                                                                                     |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Patientory
+ 
+ 
+[<img src="https://cdn-images-1.medium.com/max/944/0*Y0XaxChgf3EMzMkb.png" width="200">](https://patientory.com/)
+ 
+ 
+a blockchain-based distributed electronic medical record storage computing platform.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                           |
+| Location          | Atlanta, Georgia, USA                                                                               |
+| Money Raised (M)  | 7.2                                                                                                 |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | PTOY                                                                                                |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://patientory.com/patientory_whitepaper.pdf)                                |____
+## PokitDok
+ 
+ 
+[<img src="https://www.blockchaintechnology-news.com/wp-content/uploads/2017/05/ximg-pd-peg.png.pagespeed.ic.9Q6wxcVWUP.png" width="200">](https://pokitdok.com)
+ 
+ 
+PokitDok’s platform-as-a-service enables healthcare organizations to quickly build modern commerce experiences across the healthcare value chain.
+ 
+ 
+|                   | Details                                                                                                                       |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                                                   |
+| Location          | Sillicon Valley                                                                                                               |
+| Money Raised (M)  | -                                                                                                                             |
+| Method of Funding | -                                                                                                                             |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/pokitdok) |
+| ICO Symbol        | -                                                                                                                             |
+| Coin              | -                                                                                                                             |
+| White Paper       | [:page_facing_up:](-)                                                                                                         |____
+## Proof.Work
+ 
+ 
+[<img src="https://i2.wp.com/bitcoinexchangeguide.com/wp-content/uploads/2018/03/proof-work.jpg?resize=696%2C449&ssl=1" width="200">](https://proof.work/)
+ 
+ 
+PROOF™ focuses on privacy regulatory standards (HIPAA & GDPR) to create patient-first relationships between payer, provider and life sciences;  assigning all assets permission based access. Our collaborative secure approach creates an irrefutable supply of trust between users wishing to delivering messaging, payments, big-data, meaningful use and accountability.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                           |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Robomed_Network
+ 
+ 
+[<img src="https://cdn-images-1.medium.com/max/1200/1*SISRzAG8TMwPkYx1uyvAaQ.png" width="200">](https://robomed.io/)
+ 
+ 
+a medical network managed by a blockchain token and designed to provide effective medical care; tokens support smart contracts between healthcare providers and patients 
+ 
+ 
+|                   | Details                                                                                                                      |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Category          | Supply Chain                                                                                                                 |
+| Location          | Russia                                                                                                                       |
+| Money Raised (M)  | 14.1                                                                                                                         |
+| Method of Funding | ICO                                                                                                                          |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/RoboMed) |
+| ICO Symbol        | RBM                                                                                                                          |
+| Coin              | ERC20                                                                                                                        |
+| White Paper       | [:page_facing_up:](https://robomed.io/download/Robomed_whitepaper_eng_final.pdf)                                             |____
+## ScalaMed
+ 
+ 
+[<img src="-" width="200">](https://www.scalamed.com)
+ 
+ 
+Secure, mobile way to manage prescriptions on a blockchain.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | 2                                                                                                   |
+| Method of Funding | SEED                                                                                                |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## ScriptDrop
+ 
+ 
+[<img src="https://cryptocoinmastery.com/wp-content/uploads/ScriptDrop-Logo-2-1024x348.png" width="200">](https://www.scriptdrop.io/)
+ 
+ 
+addressing the problem of patient abandonment of prescriptions; blockchain technology incentivizes patient adherence and engagement
+ 
+ 
+|                   | Details                                                                                                                                 |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                                |
+| Location          | Nashville, Tennessee, USA                                                                                                               |
+| Money Raised (M)  | -                                                                                                                                       |
+| Method of Funding | ICO                                                                                                                                     |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/passdan/scriptdrop) |
+| ICO Symbol        | AHC                                                                                                                                     |
+| Coin              | ERC20                                                                                                                                   |
+| White Paper       | [:page_facing_up:](https://www.scriptdrop.io/assets/scriptdrop-white-paper.pdf)                                                         |____
