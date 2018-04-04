@@ -87,13 +87,14 @@ f.write("____\n")
 detail_params  =  ['Category' , 'Location','Money Raised (M)', 'Method of Funding',
                     'Github Profile','ICO Symbol','Coin','White Paper']
 
-for i in range(1):
+for i in range(len(df_unformatted_load)):
     df_company_specific = pd.DataFrame(columns = ['Details'], index = detail_params)
 
     category_md = df_unformatted_load['Category'][i]
     location_md = df_unformatted_load['Location'][i]
     raise_md = df_unformatted_load['raise'][i]
     method_md = df_unformatted_load['funding_method'][i]
+    spec_url = df_unformatted_load['spec_url'][i]
 
     git_url = df_unformatted_load['Code'][i]
     git = git_md(git_url)
@@ -127,6 +128,9 @@ for i in range(1):
     f.write(" \n")
 
     f.write(tabulate(df_company_specific, [' ','Details'],tablefmt="pipe"))
+    f.write("____\n")
+
+
 
 
 
