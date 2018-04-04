@@ -101,7 +101,7 @@ blockchain for pharmaceuticals quality control
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/ambrosus) |
 | ICO Symbol        | AMB                                                                                                                           |
 | Coin              | ERC20                                                                                                                         |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                                                        |____
+| White Paper       | [:page_facing_up:](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)                                                 |____
 ## AMCHART
  
  
@@ -120,7 +120,7 @@ EHR solution which combines secure record keeping, incentive based wellness app,
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
 | ICO Symbol        | AMC                                                                                                 |
 | Coin              | ERC20                                                                                               |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                              |____
+| White Paper       | [:page_facing_up:](http://amchart.io/white-paper/)                                                  |____
 ## ARNA_Panacea
  
  
@@ -139,7 +139,7 @@ a solution which provides to participants in the cancer diagnosis market with a 
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
 | ICO Symbol        | ARNA                                                                                                |
 | Coin              | ERC20                                                                                               |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                              |____
+| White Paper       | [:page_facing_up:](https://token.arnagenomics.com/ARNA_whitepaper_en.pdf)                           |____
 ## Beat
  
  
@@ -158,7 +158,7 @@ a state-of-the-art blockchain platform that safekeeps your data and allows you t
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
 | ICO Symbol        | BEAT                                                                                                |
 | Coin              | ERC20                                                                                               |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                              |____
+| White Paper       | [:page_facing_up:](https://beat.org/beat_whitepaper.pdf)                                            |____
 ## Bitmark
  
  
@@ -177,7 +177,7 @@ Bitmark is a universal system for digital property rights
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/project-bitmark/bitmark) |
 | ICO Symbol        | BTM                                                                                                                                          |
 | Coin              | BTC                                                                                                                                          |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                                                                       |____
+| White Paper       | [:page_facing_up:](https://bitmark.com/resources/white-papers)                                                                               |____
 ## BlockMedx
  
  
@@ -196,7 +196,7 @@ building a solution to end the opioid crisis.  cryptographically secure e-prescr
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/blockmedx) |
 | ICO Symbol        | MDX                                                                                                                            |
 | Coin              | ERC20                                                                                                                          |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                                                         |____
+| White Paper       | [:page_facing_up:](info@blockmedx.com)                                                                                         |____
 ## BlockRx
  
  
@@ -206,16 +206,16 @@ building a solution to end the opioid crisis.  cryptographically secure e-prescr
 the platform is a comprehensive solution to fully integrate life science researchers, biopharma, medical device manufactures, and healthcare providers to improve patient outcomes
  
  
-|                   | Details                                                                                             |
-|:------------------|:----------------------------------------------------------------------------------------------------|
-| Category          | Supply Chain                                                                                        |
-| Location          | Philadelphia, Pennsylvania, USA                                                                     |
-| Money Raised (M)  | -                                                                                                   |
-| Method of Funding | ICO                                                                                                 |
-| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
-| ICO Symbol        | BKRx                                                                                                |
-| Coin              | -                                                                                                   |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                              |____
+|                   | Details                                                                                               |
+|:------------------|:------------------------------------------------------------------------------------------------------|
+| Category          | Supply Chain                                                                                          |
+| Location          | Philadelphia, Pennsylvania, USA                                                                       |
+| Money Raised (M)  | -                                                                                                     |
+| Method of Funding | ICO                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-)   |
+| ICO Symbol        | BKRx                                                                                                  |
+| Coin              | -                                                                                                     |
+| White Paper       | [:page_facing_up:](https://www.blockrx.com/wp-content/uploads/2017/10/Whitepaper-Design-Extended.pdf) |____
 ## BowheadHealth
  
  
@@ -234,7 +234,7 @@ platform comprises of the Bowhead hardware device which monitors a customer's bi
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
 | ICO Symbol        | AHT                                                                                                 |
 | Coin              | ERC20                                                                                               |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                              |____
+| White Paper       | [:page_facing_up:](https://drive.google.com/drive/u/1/folders/0B2CimLH8gflNMzY0WEFhRlBxSlU)         |____
 ## BurstIQ
  
  
@@ -253,7 +253,7 @@ platform leverages blockchain and machine intelligence to enable data from dispa
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/BurstIQ) |
 | ICO Symbol        | BiQ                                                                                                                          |
 | Coin              | -                                                                                                                            |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                                                       |____
+| White Paper       | [:page_facing_up:](https://www.burstiq.com/wp-content/uploads/2017/08/BurstIQ-whitepaper_19Jul2017reduced.pdf)               |____
 ## Care4Me
  
  
@@ -272,4 +272,195 @@ a peer-2-peer platform that brings nurses and individuals in need of care manage
 | Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/care4me) |
 | ICO Symbol        | -                                                                                                                            |
 | Coin              | ERC20                                                                                                                        |
-| White Paper       | <function tech_spec_md at 0x105f10730>                                                                                       |____
+| White Paper       | [:page_facing_up:](https://carefourme.com/wp-content/uploads/2017/07/Care-Coin-White-Papers-v1.0.pdf)                        |____
+## CareX_Blockchain_Platform
+ 
+ 
+[<img src="https://carex.tech/assets/images/logo.png" width="200">](https://carex.tech/)
+ 
+ 
+The CareX blockchain platform consists of a health records vault, a health services marketplace and an AI trained chat bot for medical service interactions. An ERC20 based token currency (CARE) can be used on the CareX platform for the purchase and sale of health care services.
+ 
+ 
+|                   | Details                                                                                                                        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                    |
+| Location          | Bellaire, Texas, USA                                                                                                           |
+| Money Raised (M)  | 10                                                                                                                             |
+| Method of Funding | ICO                                                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/CareXTech) |
+| ICO Symbol        | CARE                                                                                                                           |
+| Coin              | ERC20                                                                                                                          |
+| White Paper       | [:page_facing_up:](https://icobench.com/ico/carex)                                                                             |____
+## Citizen_Health
+ 
+ 
+[<img src="https://citizenhealth.io/wp-content/uploads/2017/09/citizen-health-dark-logo-214x60.png" width="200">](https://citizenhealth.io/)
+ 
+ 
+a peer-to-peer health economy powered by the Ethereum blockchain and Medit Token; direct pay/subscription based health cooperative that is owned and controlled by the people & physicians.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                         |
+| Location          | USA                                                                                                 |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | MDX                                                                                                 |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Clinicoin
+ 
+ 
+[<img src="https://doc.ai/images/logo.svg" width="200">](https://clinicoin.io/en)
+ 
+ 
+Clinicoin is a blockchain platform that pays you to be healthy and
+connects you with people who help keep you that way
+ 
+ 
+|                   | Details                                                                                                                         |
+|:------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                       |
+| Location          | Seattle, WA                                                                                                                     |
+| Money Raised (M)  | -                                                                                                                               |
+| Method of Funding | ICO                                                                                                                             |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/clinicoin/) |
+| ICO Symbol        | CLIN                                                                                                                            |
+| Coin              | ERC20                                                                                                                           |
+| White Paper       | [:page_facing_up:](https://www.mosio.com/noidx/Clinicoin_Whitepaper_2018.pdf)                                                   |____
+## CoinHealth
+ 
+ 
+[<img src="https://bitcoincryptocurrency.com/wp-content/uploads/2018/01/coinhealth-696x449.jpg" width="200">](https://coinhealth.io/)
+ 
+ 
+Coinhealth’s mobile platform will allow both patient and provider instant and secure access to data or medical records, verification, and payment solutions. Coinhealth is the first cryptocurrency to offer health savings and flexible spending investments.
+ 
+ 
+|                   | Details                                                                                                                                    |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                                  |
+| Location          | Dallas, Texas, USA                                                                                                                         |
+| Money Raised (M)  | 0.1                                                                                                                                        |
+| Method of Funding | ICO                                                                                                                                        |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/CoinHealth/CoinHealth) |
+| ICO Symbol        | COINHEALTH                                                                                                                                 |
+| Coin              | WAVES                                                                                                                                      |
+| White Paper       | [:page_facing_up:](https://icobench.com/ico/coinhealth)                                                                                    |____
+## CoralHealth
+ 
+ 
+[<img src="https://cdn-images-1.medium.com/max/1600/1*qpL3FUGULJ8rmxVD0BEtew.png" width="200">](https://mycoralhealth.com)
+ 
+ 
+Fueled by decentralized ledger technologies, Coral Health aims to align the interests of different players in the healthcare ecosystem. Personalized medicine leveraging the Blockchain has the potential to be one of the most dramatic healthcare innovations of our lifetimes.
+ 
+ 
+|                   | Details                                                                                                                            |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                        |
+| Location          | Vancouver, Canada                                                                                                                  |
+| Money Raised (M)  | -                                                                                                                                  |
+| Method of Funding | -                                                                                                                                  |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/mycoralhealth) |
+| ICO Symbol        | -                                                                                                                                  |
+| Coin              | -                                                                                                                                  |
+| White Paper       | [:page_facing_up:](https://docsend.com/view/4xdqkp6)                                                                               |____
+## Cryogen
+ 
+ 
+[<img src="http://kriorus.ru/sites/kriorus/files/beb8f88c-98d3-4526-ade2-143453cf2688.png" width="200">](https://en.cryogen.me/)
+ 
+ 
+CryoGen is a European cryonics development project creating technologies for reversible freezing of donor organs and organisms for the purpose of life extension and long space flights.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Russia                                                                                              |
+| Money Raised (M)  | 2.5                                                                                                 |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | CRYO                                                                                                |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://icobench.com/ico/cryogen)                                                |____
+## CureCoin
+ 
+ 
+[<img src="https://curecoin.net/wp-content/uploads/2016/05/Carp.png" width="200">](https://curecoin.net/)
+ 
+ 
+#1 rank on Stanford's Folding@home - a protein folding simulation Distributed Computing Network
+ 
+ 
+|                   | Details                                                                                                                                      |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Research                                                                                                                                     |
+| Location          | USA                                                                                                                                          |
+| Money Raised (M)  | 6.8                                                                                                                                          |
+| Method of Funding | ICO                                                                                                                                          |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/cygnusxi/CurecoinSource) |
+| ICO Symbol        | CURE                                                                                                                                         |
+| Coin              | ERC20                                                                                                                                        |
+| White Paper       | [:page_facing_up:](-)                                                                                                                        |____
+## CoverUs
+ 
+ 
+[<img src="https://steemitimages.com/0x0/https://steemitimages.com/DQmRtiRwSxh6GpzmP87858JZfJ3VmHQxwXwJxu6ToEScD9z/CoverUS%20Logo.jpg" width="200">](https://www.coverus.io/)
+ 
+ 
+securely and anonymously broker your health data to interested parties,
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                         |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Datum
+ 
+ 
+[<img src="https://tokenmarket.net/blockchain-static/ethereum/assets/datum-network/logo_big.png" width="200">](https://datum.org)
+ 
+ 
+Datum is a decentralized and distributed high performance NoSQL database backed by a blockchain ledger. Datum provides a marketplace where users can share or sell data on their own terms.
+ 
+ 
+|                   | Details                                                                                                                           |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                          |
+| Location          | Switzerland, Hong Kong, Singapore                                                                                                 |
+| Money Raised (M)  | 7.2                                                                                                                               |
+| Method of Funding | ICO                                                                                                                               |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/datumnetwork) |
+| ICO Symbol        | DAT                                                                                                                               |
+| Coin              | ERC20                                                                                                                             |
+| White Paper       | [:page_facing_up:](https://datum.org/assets/Datum-WhitePaper.pdf)                                                                 |____
+## Dentacoin
+ 
+ 
+[<img src="https://themerkle.com/wp-content/uploads/2017/07/dentacoin-logo-2.png" width="200">](https://www.dentacoin.com/)
+ 
+ 
+blockchain solution for the global dental industry; an Ethereum-based blockchain platform regulated by smart contracts
+ 
+ 
+|                   | Details                                                                                                                        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                       |
+| Location          | The Netherlands                                                                                                                |
+| Money Raised (M)  | 2.1                                                                                                                            |
+| Method of Funding | ICO                                                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Dentacoin) |
+| ICO Symbol        | DCN                                                                                                                            |
+| Coin              | ERC20                                                                                                                          |
+| White Paper       | [:page_facing_up:](https://www.dentacoin.com/white-paper/Whitepaper-en.pdf)                                                    |____

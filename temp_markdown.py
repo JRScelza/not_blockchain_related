@@ -87,7 +87,7 @@ f.write("____\n")
 detail_params  =  ['Category' , 'Location','Money Raised (M)', 'Method of Funding',
                     'Github Profile','ICO Symbol','Coin','White Paper']
 
-for i in range(10):
+for i in range(20):
     df_company_specific = pd.DataFrame(columns = ['Details'], index = detail_params)
 
     category_md = df_unformatted_load['Category'][i]
@@ -105,7 +105,7 @@ for i in range(10):
     tech_stack = tech_spec_md(spec_url)
     
     param_stack = [category_md, location_md,raise_md,method_md,git, ico_symbol, coin_type,
-                    tech_spec_md]
+                    tech_stack]
     
     df_company_specific['Details'] = param_stack
 
