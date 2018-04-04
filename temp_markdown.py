@@ -76,9 +76,11 @@ headers.extend(list(df_md.columns))
 
 f = open('./README_temp.md', 'w')
 f.write(tabulate(df_md,headers, tablefmt="pipe"))
+f.close()
 
-f.write(' \n')
+f = open('./README_temp.md', 'a')
 f.write('____')
+f.write(' \n')
 
 
 
