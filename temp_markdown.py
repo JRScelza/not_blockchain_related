@@ -107,7 +107,7 @@ for i in range(1):
     
     df_company_specific['Details'] = param_stack
 
-    company_heading = "##" + df_unformatted_load['Name'][i] + "\n"
+    company_heading = "## " + df_unformatted_load['Name'][i] + "\n"
 
     f.write(company_heading)
     f.write(" \n")
