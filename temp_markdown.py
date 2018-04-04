@@ -75,7 +75,7 @@ df_md['TS'] = tech_stack
 headers = ['Site']
 headers.extend(list(df_md.columns))
 
-f = open('./README_temp.md', 'w')
+f = open('./README.md', 'w')
 f.write(tabulate(df_md,headers, tablefmt="pipe"))
 
 f.write(" \n")
