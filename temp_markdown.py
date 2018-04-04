@@ -76,11 +76,10 @@ headers.extend(list(df_md.columns))
 
 f = open('./README_temp.md', 'w')
 f.write(tabulate(df_md,headers, tablefmt="pipe"))
-f.close()
 
-f = open('./README_temp.md', 'a')
-f.write("____\n")
 f.write(" \n")
+f.write("____\n")
+
 
 
 
@@ -108,20 +107,23 @@ for i in range(1):
     
     df_company_specific['Details'] = param_stack
 
-    company_heading = '##' + df_unformatted_load['Name'][i] + '\n'
+    company_heading = "##" + df_unformatted_load['Name'][i] + "\n"
 
     f.write(company_heading)
+    f.write(" \n")
+    f.write(" \n")
 
     im_source, site_link = df_unformatted_load['logo_source'][i] , df_unformatted_load['Site'][i]
-    active_logo = logo_md_header(im_source, site_link) + '\n'
-
-
-
+    active_logo = logo_md_header(im_source, site_link) + "\n"
     f.write(active_logo)
+
+    f.write(" \n")
+    f.write(" \n")
 
     f.write(df_unformatted_load['description'][i] + '\n')
     
-    f.write(' \n')
+    f.write(" \n")
+    f.write(" \n")
 
     f.write(tabulate(df_company_specific, [' ','Details'],tablefmt="pipe"))
 
