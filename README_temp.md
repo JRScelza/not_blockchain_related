@@ -464,3 +464,573 @@ blockchain solution for the global dental industry; an Ethereum-based blockchain
 | ICO Symbol        | DCN                                                                                                                            |
 | Coin              | ERC20                                                                                                                          |
 | White Paper       | [:page_facing_up:](https://www.dentacoin.com/white-paper/Whitepaper-en.pdf)                                                    |____
+## DentalFix
+ 
+ 
+[<img src="https://cdn-images-1.medium.com/max/1361/1*vxjegwHIV4UoLR6i7Ro3tQ.jpeg" width="200">](http://www.che-ss.com/dentalfix-ico/)
+ 
+ 
+blockchain company for Dental clinics and the supply chain.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Supply Chain                                                                                        |
+| Location          | Russia                                                                                              |
+| Money Raised (M)  | 0.15                                                                                                |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | DFBT                                                                                                |
+| Coin              | WAVES                                                                                               |
+| White Paper       | [:page_facing_up:](https://drive.google.com/file/d/0B2-rqxQ4OfPEV3FkYjNON3lYX3M/view)               |____
+## Digipharm
+ 
+ 
+[<img src="https://www.digipharm.ch/images/digipharm-logo-blue.png" width="200">](www.digipharm.ch)
+ 
+ 
+transforming market access, innovative pricing and personalised reimbursement, and the worlds first 'live' RWE respository
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                         |
+| Location          | Zug, Switzerland                                                                                    |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Doc_Coin
+ 
+ 
+[<img src="https://pbs.twimg.com/profile_images/940240806601826304/Qkv2PXcu_400x400.jpg" width="200">](https://www.doc-coin.com/)
+ 
+ 
+a blockchain protocol for Telehealth. Users can get specialist advice 24 hours a day 7 days a week anywhere in the world in any language.
+ 
+ 
+|                   | Details                                                                                                                         |
+|:------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                        |
+| Location          | Russia                                                                                                                          |
+| Money Raised (M)  | -                                                                                                                               |
+| Method of Funding | ICO                                                                                                                             |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/DocCoinICO) |
+| ICO Symbol        | DOC                                                                                                                             |
+| Coin              | ERC20                                                                                                                           |
+| White Paper       | [:page_facing_up:](https://www.doc-coin.com/white-paper-eng)                                                                    |____
+## doc.ai
+ 
+ 
+[<img src="https://tokensale.doc.ai/images/logo.png" width="200">](https://doc.ai/)
+ 
+ 
+a conversational AI-powered platform for on-demand, quantified biology
+ 
+ 
+|                   | Details                                                                                                                     |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                    |
+| Location          | Palo Alto, California, USA                                                                                                  |
+| Money Raised (M)  | 12.3                                                                                                                        |
+| Method of Funding | ICO                                                                                                                         |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/doc-AI) |
+| ICO Symbol        | NRN                                                                                                                         |
+| Coin              | ERC20                                                                                                                       |
+| White Paper       | [:page_facing_up:](https://s3-us-west-1.amazonaws.com/ai.doc.static/pdf/whitepaper.pdf?_t=1508776745697)                    |____
+## ELCoin
+ 
+ 
+[<img src="https://icobench.com/images/icos/icons/elcoin.jpg" width="200">](https://elcoin.io/)
+ 
+ 
+Blockchain intelligent medicine--The goal of the project is to combine innovative developments in the field of production of medical equipment and modern blockchain technologies.
+ 
+ 
+|                   | Details                                                                                                                                            |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Supply Chain                                                                                                                                       |
+| Location          | Riga, Latvia                                                                                                                                       |
+| Money Raised (M)  | -                                                                                                                                                  |
+| Method of Funding | ICO                                                                                                                                                |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/ElcoinCurrency/ElcoinContract) |
+| ICO Symbol        | ELC                                                                                                                                                |
+| Coin              | ERC20                                                                                                                                              |
+| White Paper       | [:page_facing_up:](https://elcoin.io/White_Paper%200.9_v3.pdf)                                                                                     |____
+## Elige.re
+ 
+ 
+[<img src="https://icomarks.com/files/companies/11/960968b604be102ec2abfcb8750d4b98.jpg" width="200">](https://www.elige.re/)
+ 
+ 
+a platform that works closely with the pharmaceutical industry to create drug discovery and protein folding algorithms that can be run on computers distributed across the internet. When your computer is idle, it uses that algorithm to search for clues valuable to the industry. Results are sold to pharma and payments are made to members of the network.
+ 
+ 
+|                   | Details                                                                                                                      |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------|
+| Category          | Research                                                                                                                     |
+| Location          | Russia                                                                                                                       |
+| Money Raised (M)  | -                                                                                                                            |
+| Method of Funding | ICO                                                                                                                          |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/eligere) |
+| ICO Symbol        | ELG                                                                                                                          |
+| Coin              | ERC20                                                                                                                        |
+| White Paper       | [:page_facing_up:](http://www.elige.re/whitepaper.pdf)                                                                       |____
+## Embleema
+ 
+ 
+[<img src="https://s3.amazonaws.com/main-newsbtc-images/2017/12/31111019/embleem.png" width="200">](https://embleema.com/)
+ 
+ 
+PatientTruth™ is a cloud and blockchain-based software solution that connects to a patient's different medical records at the various centers of healthcare services and chains them into a consistent, comprehensive, and tamper-proof medical history.
+ 
+ 
+|                   | Details                                                                                                                                |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                              |
+| Location          | New York, NY, USA                                                                                                                      |
+| Money Raised (M)  | -                                                                                                                                      |
+| Method of Funding | -                                                                                                                                      |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Embleema/Embleema) |
+| ICO Symbol        | -                                                                                                                                      |
+| Coin              | -                                                                                                                                      |
+| White Paper       | [:page_facing_up:](-)                                                                                                                  |____
+## Encrypgen
+ 
+ 
+[<img src="https://assets.coingecko.com/coins/images/1215/large/encrypgen.png?1511403548" width="200">](https://www.encrypgen.com/)
+ 
+ 
+blockchain enhanced security for safe cloud storage and sharing of genomic data.
+ 
+ 
+|                   | Details                                                                                                                        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                      |
+| Location          | Coral Springs, Florida, USA                                                                                                    |
+| Money Raised (M)  | 12                                                                                                                             |
+| Method of Funding | ICO                                                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/encrypgen) |
+| ICO Symbol        | DNA                                                                                                                            |
+| Coin              | ERC20                                                                                                                          |
+| White Paper       | [:page_facing_up:](https://encrypgen.com/wp-content/uploads/2017/05/gene-chain.pdf)                                            |____
+## Enome
+ 
+ 
+[<img src="https://i.vimeocdn.com/video/663723062_780x439.jpg" width="200">](https://enome.io/)
+ 
+ 
+a patent pending system based on blockchain technology that empowers consumers to take control of their medical history on their smartphone, with ultimate security and privacy. The system allows consumers to anonymously share their data to participate and assist in medical research.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                           |
+| Location          | Australia                                                                                           |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](https://enome.io/wp-content/uploads/2017/07/E-Nome-White-Paper-Ver2.5.pdf)       |____
+## Eterly
+ 
+ 
+[<img src="https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/i2nh8fjedr4wtsdnyccp" width="200">](http://www.eterly.com/)
+ 
+ 
+using proprietary technology, the best science, and advanced AI techniques, the Eterly app acts like a personal coach--custom designing and adjusting, in real time--a health and fitness routine mapped to precisely fit each user’s specific needs. The project has been inspired, developed, and funded by longevity experts.
+ 
+ 
+|                   | Details                                                                                                                             |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                            |
+| Location          | Vancouver, Canada                                                                                                                   |
+| Money Raised (M)  | 15                                                                                                                                  |
+| Method of Funding | ICO                                                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/longevitytoken) |
+| ICO Symbol        | LTY                                                                                                                                 |
+| Coin              | ERC20                                                                                                                               |
+| White Paper       | [:page_facing_up:](-)                                                                                                               |____
+## Etheal
+ 
+ 
+[<img src="https://pbs.twimg.com/profile_images/905443871198507008/_xZ7OteP_400x400.jpg" width="200">](http://etheal.com/)
+ 
+ 
+a blockchain-based incentivized global health platform; the new OS of the $7.6 trillion healthcare industry
+ 
+ 
+|                   | Details                                                                                                                                  |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                              |
+| Location          | Budapest                                                                                                                                 |
+| Money Raised (M)  | -                                                                                                                                        |
+| Method of Funding | ICO                                                                                                                                      |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/thesved/etheal-sale) |
+| ICO Symbol        | HEAL                                                                                                                                     |
+| Coin              | ERC20                                                                                                                                    |
+| White Paper       | [:page_facing_up:](http://etheal.com/etheal-wp-0.8.pdf)                                                                                  |____
+## FarmaTrust
+ 
+ 
+[<img src="https://icobench.com/images/icos/icons/farmatrust.jpg" width="200">](https://www.farmatrust.com/)
+ 
+ 
+a platform which eliminates counterfeit drugs, creates efficiencies in the pharmaceutical industry, and allows the purchase of genuine drugs anywhere and online
+ 
+ 
+|                   | Details                                                                                                                         |
+|:------------------|:--------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                        |
+| Location          | London, England                                                                                                                 |
+| Money Raised (M)  | -                                                                                                                               |
+| Method of Funding | ICO                                                                                                                             |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/farmatrust) |
+| ICO Symbol        | FTT                                                                                                                             |
+| Coin              | ERC20                                                                                                                           |
+| White Paper       | [:page_facing_up:](https://www.farmatrust.com/wp-content/uploads/2017/12/FarmaTrust-WP041217_v1.23.pdf)                         |____
+## Gem.co
+ 
+ 
+[<img src="https://icodrops.com/wp-content/uploads/2017/12/Jo8iJfoK_400x400.jpg" width="200">](https://gem.co)
+ 
+ 
+The GemOS enterprise platform enables all parties in today's data-driven healthcare economy to securely access and share data with the right permissions, and with full HIPAA compliance, within and across organizations.
+ 
+ 
+|                   | Details                                                                                                                    |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                  |
+| Location          | Venice, CA                                                                                                                 |
+| Money Raised (M)  | 7.1                                                                                                                        |
+| Method of Funding | SERIES                                                                                                                     |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/GemHQ) |
+| ICO Symbol        | GEM                                                                                                                        |
+| Coin              | ERC20                                                                                                                      |
+| White Paper       | [:page_facing_up:](https://gem.co/wp-content/uploads/2016/10/GemOSPlatformWhitepaper.pdf)                                  |____
+## Hashed_Health
+ 
+ 
+[<img src="https://pbs.twimg.com/profile_images/781263571934023680/szoxJXVS_400x400.jpg" width="200">](https://hashedhealth.com)
+ 
+ 
+Hashed Health is leading a consortium of healthcare companies focused on accelerating meaningful innovation using blockchain and distributed ledger technologies. 
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                         |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | 1.8                                                                                                 |
+| Method of Funding | SEED                                                                                                |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Hayver
+ 
+ 
+[<img src="https://icoinblog.com/wp-content/uploads/2017/11/Hayver’s-ICO-Cryptocurrency-Rewards-Recovering-Addicts.jpg" width="200">](https://hayver.io/)
+ 
+ 
+launching the Duitcoin to revolutionize the treatment of addiction-related diseases through peer-to-peer monitoring apps and crypto-rewards.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Georgia, USA                                                                                        |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## HealPoint
+ 
+ 
+[<img src="https://healpoint.io/img/man.png" width="200">](http://healpoint.io/)
+ 
+ 
+an online virtual telemedicine Ethereum based platform, providing second opinions to patients in a matter of hours.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Los Angeles, California, USA                                                                        |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | HLP                                                                                                 |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](http://healpoint.io/whitepaper.pdf)                                              |____
+## Health_Monitor
+ 
+ 
+[<img src="https://assets.coingecko.com/coins/images/1988/large/hlc.png?1514446359" width="200">](http://healthmonitor.io/)
+ 
+ 
+The world's first device for non-invasive diagnostics of blood glucose level, lung cancer, stomach ulcer and diabetes. The business model is based on creating a vending machine network in the EU.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Czech Republic                                                                                      |
+| Money Raised (M)  | 0.5                                                                                                 |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | HLC                                                                                                 |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://drive.google.com/file/d/0B-QBdFrWXGeAdnRQaHlUbV9QNm8/view)               |____
+## Health_Wizz
+ 
+ 
+[<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/11/Health_Wizz_Logo_icon_Feb_2017-1.jpg" width="200">](https://www.healthwizz.com/)
+ 
+ 
+a mobile application for individuals to aggregate, organize, and share their medical records on a blockchain. 
+ 
+ 
+|                   | Details                                                                                                                                 |
+|:------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                               |
+| Location          | Falls Church, Virginia, USA                                                                                                             |
+| Money Raised (M)  | -                                                                                                                                       |
+| Method of Funding | ICO                                                                                                                                     |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-)                                     |
+| ICO Symbol        | -                                                                                                                                       |
+| Coin              | -                                                                                                                                       |
+| White Paper       | [:page_facing_up:](https://daks2k3a4ib2z.cloudfront.net/586ebe41ba9f9499729002dc/59e6211d76c4d200017c6dc5_HealthWizz_White%20Paper.pdf) |____
+## HealthBase
+ 
+ 
+[<img src="https://i.imgur.com/qcBtxIh.png" width="200">](https://healthbase.digital/)
+ 
+ 
+Healthbase aims to integrate blockchain technology with medical research. By storing patient records on Blockchain, data is secure and immutable while also incentivising patients and care providers every time their records are accessed by medical researchers and companies. Launching DAPP this year and already has two clinics in which alpha version is being tested.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Research                                                                                            |
+| Location          | Bonn, Germany                                                                                       |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:]( )                                                                               |____
+## HealthCoin
+ 
+ 
+[<img src="https://i0.wp.com/blockchainhealthcarereview.com/wp-content/uploads/2017/12/Universal-Health-Coin.png?resize=228%2C251&ssl=1" width="200">](https://www.healthcoin.com)
+ 
+ 
+A global, blockchain-enabled rewards platform designed to change people’s behaviors and prevent diabetes.
+ 
+ 
+|                   | Details                                                                                                                                              |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                                             |
+| Location          | New York                                                                                                                                             |
+| Money Raised (M)  | 0.2                                                                                                                                                  |
+| Method of Funding | SEED,ICO                                                                                                                                             |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/onsightit/healthcoin-web-wallet) |
+| ICO Symbol        | -                                                                                                                                                    |
+| Coin              | ERC20                                                                                                                                                |
+| White Paper       | [:page_facing_up:](-)                                                                                                                                |____
+## Healthcombix
+ 
+ 
+[<img src="http://www.liou-tai.net/image/cache/data/meun/A-桶圈/A-50KG瓦斯桶用-橘-550x582.jpg" width="200">](http://www.healthcombix.com/)
+ 
+ 
+combines privacy-preserving human data asset management, disease prediction markets, and the power of open, decentralized payment networks to build future healthcare ecosystems, DAOs, & cooperatives
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                           |
+| Location          | Nashville, Tennessee, USA                                                                           |
+| Money Raised (M)  | -                                                                                                   |
+| Method of Funding | -                                                                                                   |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](http://www.healthcombix.com/)                                                    |____
+## Healthureum
+ 
+ 
+[<img src="https://tokenmarket.net/blockchain-static/ethereum/assets/healthureum/logo_big.png" width="200">](https://www.healthureum.io/)
+ 
+ 
+the platform operates on the Ethereum blockchain using an ERC20 standard to deploy smart contracts for health-related services. Healthureum focuses on six core areas to bring widespread efficiency and transparency, and cost savy healthcare: *Data Systemization, *Doctor Consultation and *Referral, *Medical Infrastructure, *Research Programs, and *Philanthropic Activities
+ 
+ 
+|                   | Details                                                                                                                                      |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                                     |
+| Location          | Estonia                                                                                                                                      |
+| Money Raised (M)  | -                                                                                                                                            |
+| Method of Funding | ICO                                                                                                                                          |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Healthureum/healthureum) |
+| ICO Symbol        | HHEM                                                                                                                                         |
+| Coin              | ERC20                                                                                                                                        |
+| White Paper       | [:page_facing_up:](https://www.healthureum.io/app/Healthureum-White-Paper.pdf)                                                               |____
+## Hearthy
+ 
+ 
+[<img src="https://icomood.com/media/cache/48/87/488773dd43a64f0b6ac933025fd8271c.jpg" width="200">](http://hearthy.co/)
+ 
+ 
+a decentralized, open and sustainable ecosystem (PHR, coin, app suite) to improve healthcare access regardless of income, maing healthcare more efficient and user-centered
+ 
+ 
+|                   | Details                                                                                                                        |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                       |
+| Location          | Spain                                                                                                                          |
+| Money Raised (M)  | -                                                                                                                              |
+| Method of Funding | ICO                                                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/hearthyco) |
+| ICO Symbol        | HER                                                                                                                            |
+| Coin              | ERC20                                                                                                                          |
+| White Paper       | [:page_facing_up:](http://hearthy.co/assets/images/Hearthy-whitepaper.pdf)                                                     |____
+## hit_Foundation
+ 
+ 
+[<img src="https://hit.foundation/wp-content/uploads/2017/09/HIT-logo.png" width="200">](https://hit.foundation)
+ 
+ 
+A Blockchain-based Online Marketplace for Personal Health Data
+ 
+ 
+|                   | Details                                                                                                                            |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                                                        |
+| Location          | Switzerland                                                                                                                        |
+| Money Raised (M)  | -                                                                                                                                  |
+| Method of Funding | ICO                                                                                                                                |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/HITFoundation) |
+| ICO Symbol        | HIT                                                                                                                                |
+| Coin              | ERC20                                                                                                                              |
+| White Paper       | [:page_facing_up:](https://hit.foundation/documents/)                                                                              |____
+## Iryo
+ 
+ 
+[<img src="https://icobench.com/images/icos/icons/iryo.jpg" width="200">](https://iryo.io)
+ 
+ 
+Iryo network is the world's first participatory healthcare ecosystem build on standardised zero-knowledge electronic health record storage. Disrupting the landscape of traditional health IT by promoting standardised health-data archetypes, redefining medical data ownership and securing from unauthorised access. 
+ 
+ 
+|                   | Details                                                                                                                          |
+|:------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Ownership                                                                                                                        |
+| Location          | Kranj, Slovenia                                                                                                                  |
+| Money Raised (M)  | 15.8                                                                                                                             |
+| Method of Funding | ICO                                                                                                                              |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/iryonetwork) |
+| ICO Symbol        | IRYO                                                                                                                             |
+| Coin              | EOS                                                                                                                              |
+| White Paper       | [:page_facing_up:](https://iryo.io/iryo_whitepaper.pdf)                                                                          |____
+## Linda_Healthcare_
+ 
+ 
+[<img src="https://icolink.com/components/com_djclassifieds/images/item/698_ico-link-list-linda-healthcare_thb.jpg" width="200">](https://linda.healthcare/)
+ 
+ 
+LindaHealthCoin is the token needed in order to have access to the Linda Virtual Medical Assistant through our blockchain smart contracts, CryptoHealthInsurance. Our smart contracts will facilitate your monthly LindaHealthCoin payment. In our healthcare ecosystem, LindaHealthCoin is the only form of payment.
+ 
+ 
+|                   | Details                                                                                                                                                 |
+|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                                                                                |
+| Location          | Palo Alto, California, USA                                                                                                                              |
+| Money Raised (M)  | -                                                                                                                                                       |
+| Method of Funding | ICO                                                                                                                                                     |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/LindaHealthcareICO/linda-crowdsale) |
+| ICO Symbol        | LNDA                                                                                                                                                    |
+| Coin              | ERC20                                                                                                                                                   |
+| White Paper       | [:page_facing_up:](https://linda.healthcare/index.html)                                                                                                 |____
+## Litra
+ 
+ 
+[<img src="https://www.investitin.com/wp-content/uploads/2017/08/Litra-1.png" width="200">](https://litra.site/)
+ 
+ 
+a toolkit for building trusted decentralized healthcare apps; executable on mobile devices, compatible with major EHR systems
+ 
+ 
+|                   | Details                                                                                                                              |
+|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| Category          | Development                                                                                                                          |
+| Location          | Switzerland                                                                                                                          |
+| Money Raised (M)  | 23.5                                                                                                                                 |
+| Method of Funding | ICO                                                                                                                                  |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/Litrafoundation) |
+| ICO Symbol        | LTA                                                                                                                                  |
+| Coin              | Litecoin                                                                                                                             |
+| White Paper       | [:page_facing_up:](https://litra.site/Litrawhitepaper.pdf)                                                                           |____
+## Longenesis
+ 
+ 
+[<img src="https://pbs.twimg.com/profile_images/932291099955167232/nB3Kar8O_400x400.jpg" width="200">](http://www.longenesis.com/)
+ 
+ 
+A blockchain-based “life data marketplace platform" which provides modular toolsets coupled with integrated advanced AI systems to store, manage, and trade life data: social network data, health data, and medical records
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                         |
+| Location          | -                                                                                                   |
+| Money Raised (M)  | 70                                                                                                  |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | LifePound                                                                                           |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## LunaDNA
+ 
+ 
+[<img src="http://www.finsmes.com/wp-content/uploads/2017/12/lunadna-300x300.jpg" width="200">](https://www.lunadna.com)
+ 
+ 
+Luna is a community owned database that rewards individuals Luna Coins for contributing their DNA and other medical information.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Marketplace                                                                                         |
+| Location          | San Diego, CA                                                                                       |
+| Money Raised (M)  | 2                                                                                                   |
+| Method of Funding | SEED,ICO                                                                                            |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | -                                                                                                   |
+| Coin              | -                                                                                                   |
+| White Paper       | [:page_facing_up:](-)                                                                               |____
+## Luven_Diagnostic
+ 
+ 
+[<img src="https://www.trackico.io/media/oOzVAea1_400x400.jpg" width="200">](https://luvenmed.io/)
+ 
+ 
+The LUVEN screening test method detects cancer at its early stages with the accuracy of up to 96% only comparable to biopsy.
+ 
+ 
+|                   | Details                                                                                             |
+|:------------------|:----------------------------------------------------------------------------------------------------|
+| Category          | Services                                                                                            |
+| Location          | Ukraine                                                                                             |
+| Money Raised (M)  | 0.03                                                                                                |
+| Method of Funding | ICO                                                                                                 |
+| Github Profile    | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](-) |
+| ICO Symbol        | LVN                                                                                                 |
+| Coin              | ERC20                                                                                               |
+| White Paper       | [:page_facing_up:](https://luvenmed.io/whitepaper/whitepaper_en.pdf)                                |____
