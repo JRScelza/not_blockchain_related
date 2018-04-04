@@ -87,7 +87,7 @@ f.write("____\n")
 detail_params  =  ['Category' , 'Location','Money Raised (M)', 'Method of Funding',
                     'Github Profile','ICO Symbol','Coin','White Paper']
 
-for i in range(len(df_unformatted_load)):
+for i in range(10):
     df_company_specific = pd.DataFrame(columns = ['Details'], index = detail_params)
 
     category_md = df_unformatted_load['Category'][i]
