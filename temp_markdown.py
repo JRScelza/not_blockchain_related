@@ -20,7 +20,8 @@ def logo_md_header(im_source, site_link):
 
 def name_md(name):
     name_front = '[' + name + ']'
-    section = '(#' + name + ')'
+    name_lower = name.lower()
+    section = '(#' + name_lower + ')'
     return(name_front + section)
 
 def git_md(git_url):
