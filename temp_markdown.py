@@ -79,8 +79,8 @@ f.write(tabulate(df_md,headers, tablefmt="pipe"))
 f.close()
 
 f = open('./README_temp.md', 'a')
-f.write('____')
-f.write(' \n')
+f.write("____\n")
+f.write(" \n")
 
 
 
