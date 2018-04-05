@@ -1,4 +1,41 @@
-____
+# Biomedical Blockchain Initiatives
+
+There is tremendous interest and opportunity to apply blockchain technologies to problems in biology, medicine and health. This repository is an attempt to organize and document the biomedical blockchain space. It was assembled by the team at the [Health Data and Design Innovation Center](http://hd2i.org) at the [Icahn School of Medicine at Mount Sinai](http://icahn.mssm.edu), based off [XXXX], [YYYY] and [ZZZZ]. If you know of a company that should be on this list, pull requests are welcome!
+
+ ___
+
+## TOC
+
+A description of the headers for the table is shown below:
+
+* **Website**: Logo and link to their website.
+
+* **Name**: Name of the blockchain project/company. Internal link to more information about the company.
+
+* **Category**: This is the general category of the blockchain company which include:
+  * **Directly Health Related**
+    * Auditing of Supply Chain/ Logistics (Pharmacy, medications, etc.)
+    * Marketplace (Health Data)
+    * Ownership (Health Records/EHR)
+    * Interoperability (Health Records)
+    * Stakeholder Alignment through incentivization (Payers, Insurers, patients, etc.)
+  * **Applicable to Healthcare**
+    * General Marketplace
+    * General Ownership
+    
+* **Code**: Do they have publicly available and non-trivial open-source code (i.e. trivial including: white papers, tokens/token sales, not road maps, only a fork with no additional work)?
+  * <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="20"> : A link to their github that contains this
+ 
+* **Demo**: Do they have a public demo or working product that is available? (This does not include private betas)
+  * 💻 : A link to their demo if a website 
+  * 📱 : A link to thier demo if an app
+  
+* **Technical Specifications (TS)**: Do they have a public technical whitepaper or technical specifications for their implementation of blockchain? (A non-technical implementation does not count)
+  * 📃 : A link to their technical whitpaper
+  
+
+
+## Summary____
 | Site                                                                                                                                                                                                                 | Name                                                    | Category     | Location                                                          | Code                                                                                                                                                    | Demo                                                                                                              | TS                                                                                                                                                        |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------|:-------------|:------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [<img src="https://d33wubrfki0l68.cloudfront.net/9e1fb050865401a69f27b46683de38626a9372d0/9efc0/assets/logo-color-2.png" width="80">](https://ambrosus.com/index.html)                                               | [Ambrosus](#ambrosus)                                   | Supply Chain | Zug, Switzerland                                                  | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/ambrosus)                           | :exclamation:                                                                                                     | [:page_facing_up:](https://ambrosus.com/assets/Ambrosus-White-Paper-V8-1.pdf)                                                                             |

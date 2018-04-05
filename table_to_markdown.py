@@ -99,7 +99,7 @@ with open("README.md", "wb") as outfile:
         with open(f, "rb") as infile:
             outfile.write(infile.read())
 
-f = open('./README.md', 'w')
+f = open('./README.md', 'a')
 f.write("____\n")
             
 
