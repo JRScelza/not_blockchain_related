@@ -26,19 +26,33 @@ def name_md(name):
 
 def git_md(git_url):
     git_icon = '[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">]'
-    git_link = '(' + git_url + ')'
-    return(git_icon + git_link)
+    excl_emoji = '[:exclamation:]'
+
+    if git_url == '-':
+        return(excl_emoji)
+    else:            
+        git_link = '(' + git_url + ')'
+        return(git_icon + git_link)
 
 def demo_md(demo_url, demo_type):
     demo_styles = {'-':'[:exclamation:]' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
     emoji_style = demo_styles[str(demo_type)]
-    demo_link = '(' + demo_url + ')'
-    return(emoji_style + demo_link)
+    
+    if demo_url == '-':
+        return(emoji_style)
+    else:
+        demo_link = '(' + demo_url + ')'
+        return(emoji_style + demo_link)
 
 def tech_spec_md(spec_url):
     paper_emoji = '[:page_facing_up:]'
-    spec_link = '(' + spec_url + ')'
-    return(paper_emoji + spec_link)
+    excl_emoji = '[:exclamation:]'
+
+    if spec_url == '-':
+        return(excl_emoji)
+    else:
+        spec_link = '(' + spec_url + ')'
+        return(paper_emoji + spec_link)
 
 
 #compiling the new df, listxlist
