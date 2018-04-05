@@ -1,5 +1,6 @@
 from tabulate import tabulate
 import pandas as pd
+import glob
 
 file_name = './Master_List.csv'
 
@@ -91,11 +92,22 @@ df_md['TS'] = tech_stack
 headers = ['Site']
 headers.extend(list(df_md.columns))
 
+read_files = glob.glob("./intro.txt")
+
+with open("README.md", "wb") as outfile:
+    for f in read_files:
+        with open(f, "rb") as infile:
+            outfile.write(infile.read())
+
 f = open('./README.md', 'w')
+f.write("____\n")
+            
+
+
 f.write(tabulate(df_md,headers, tablefmt="pipe"))
 
 f.write(" \n")
-f.write("____\n")
+
 
 
 
