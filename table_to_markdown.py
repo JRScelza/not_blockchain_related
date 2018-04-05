@@ -29,10 +29,11 @@ def git_md(git_url):
     git_link = '(' + git_url + ')'
     return(git_icon + git_link)
 
-def demo_md(demo_url):
-    phone_emoji = '[:iphone:]'
+def demo_md(demo_url, demo_type):
+    demo_styles = {'-':'[:exclamation:]' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
+    emoji_style = demo_styles[str(demo_type)]
     demo_link = '(' + demo_url + ')'
-    return(phone_emoji + demo_link)
+    return(emoji_style + demo_link)
 
 def tech_spec_md(spec_url):
     paper_emoji = '[:page_facing_up:]'
@@ -53,12 +54,13 @@ for i in range(len(df_unformatted_load)):
     name = df_unformatted_load['Name'][i]
     git_url = df_unformatted_load['Code'][i]
     demo_url = df_unformatted_load['Demo'][i]
+    demo_type = df_unformatted_load['demo_type'][i]
     spec_url = df_unformatted_load['spec_url'][i]
 
     site_stack.append(logo_md(im_source, site_link))
     name_stack.append(name_md(name))
     git_stack.append(git_md(git_url))
-    demo_stack.append(demo_md(demo_url))
+    demo_stack.append(demo_md(demo_url,demo_type))
     tech_stack.append(tech_spec_md(spec_url))
 
 
