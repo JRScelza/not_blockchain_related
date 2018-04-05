@@ -26,7 +26,7 @@ def name_md(name):
 
 def git_md(git_url):
     git_icon = '[<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">]'
-    excl_emoji = '[:exclamation:]'
+    excl_emoji = ':exclamation:'
 
     if git_url == '-':
         return(excl_emoji)
@@ -35,7 +35,7 @@ def git_md(git_url):
         return(git_icon + git_link)
 
 def demo_md(demo_url, demo_type):
-    demo_styles = {'-':'[:exclamation:]' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
+    demo_styles = {'-':':exclamation:' , '0': '[:iphone:]' , '1':'[:computer:]', '2':'[:movie_camera:]', '3':'[:clipboard:]'}
     emoji_style = demo_styles[str(demo_type)]
     
     if demo_url == '-':
@@ -46,7 +46,7 @@ def demo_md(demo_url, demo_type):
 
 def tech_spec_md(spec_url):
     paper_emoji = '[:page_facing_up:]'
-    excl_emoji = '[:exclamation:]'
+    excl_emoji = ':exclamation:'
 
     if spec_url == '-':
         return(excl_emoji)
