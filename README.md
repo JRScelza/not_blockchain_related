@@ -80,7 +80,7 @@
 | [<img src="https://i.vimeocdn.com/video/655062420_640.jpg" width="80">](https://www.verisfoundation.com/)                                                                                                            | [Veris_Foundation](#veris_foundation)                   | Services     | Jersey City, New Jersey, USA                                      | :exclamation:                                                                                                                                           | :exclamation:                                                                                                     | [:page_facing_up:](https://www.verisfoundation.com/)                                                                                                      |
 | [<img src="https://www.coinstaker.com/wp-content/uploads/2018/01/Well_logo_H_Teal_CMYK.jpg" width="80">](https://joinwell.io/)                                                                                       | [WELL](#well)                                           | Services     | Santa Monica, California, USA                                     | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/joinwell)                           | [:computer:](https://joinwell.io/clinicians)                                                                      | [:page_facing_up:](https://joinwell.io/docs/joinwell-whitepaper-en.pdf)                                                                                   |
 | [<img src="https://ccn2017.wpengine.com/wp-content/uploads/2015/06/1-youbase.png" width="80">](https://www.youbase.io)                                                                                               | [Youbase](#youbase)                                     | Ownership    | Englewood, CO                                                     | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/YouBase)                            | [:clipboard:](https://info.youbase.io/contact)                                                                    | :exclamation:                                                                                                                                             |
-| [<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/22885965_1724221597650765_2274191608940029515_n.png?_nc_cat=0&oh=ac00641fbf7292a0e5121a0b4219ce58&oe=5B310E77" width="80">](http://youthereum.io/) | [Youthereum](#youthereum)                               | Services     | Russia                                                            | :exclamation:                                                                                                                                           | :exclamation:                                                                                                     | [:page_facing_up:](coming soon)                                                                                                                           |
+| [<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-1/p200x200/22885965_1724221597650765_2274191608940029515_n.png?_nc_cat=0&oh=ac00641fbf7292a0e5121a0b4219ce58&oe=5B310E77" width="80">](http://youthereum.io/) | [Youthereum](#youthereum)                               | Services     | Russia                                                            | :exclamation:                                                                                                                                           | :exclamation:                                                                                                     | [:page_facing_up:](https://drive.google.com/file/d/0B5Hh8hipzj-OODBqTmxnZHZXbG8/view)                                                                     |
 | [<img src="https://i.imgur.com/NjyUZs3.png" width="80">](https://zenome.io/)                                                                                                                                         | [Zenome](#zenome)                                       | Services     | -                                                                 | [<img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width="40">](https://github.com/zenome)                             | [:movie_camera:](https://www.youtube.com/watch?v=IfChaz0MYBE)                                                     | [:page_facing_up:](https://zenome.io/download/whitepaper.pdf)                                                                                             | 
 ____
 ## Ambrosus
@@ -1613,16 +1613,16 @@ Individual-centric health data exchange is the future of Health IT and precision
 cellular rejuvenation therapies using epigenetic reprogramming, initially for pets, later for humans.
  
  
-|                   | Details                         |
-|:------------------|:--------------------------------|
-| Category          | Services                        |
-| Location          | Russia                          |
-| Money Raised (M)  | -                               |
-| Method of Funding | ICO                             |
-| Github Profile    | :exclamation:                   |
-| ICO Symbol        | -                               |
-| Coin              | ERC20                           |
-| White Paper       | [:page_facing_up:](coming soon) |____
+|                   | Details                                                                               |
+|:------------------|:--------------------------------------------------------------------------------------|
+| Category          | Services                                                                              |
+| Location          | Russia                                                                                |
+| Money Raised (M)  | -                                                                                     |
+| Method of Funding | ICO                                                                                   |
+| Github Profile    | :exclamation:                                                                         |
+| ICO Symbol        | -                                                                                     |
+| Coin              | ERC20                                                                                 |
+| White Paper       | [:page_facing_up:](https://drive.google.com/file/d/0B5Hh8hipzj-OODBqTmxnZHZXbG8/view) |____
 ## Zenome
  
  
